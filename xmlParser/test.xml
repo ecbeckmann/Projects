@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<megaA>
+	<A1>
+		<S1 category="temp">
+			65.2
+		</S1>
+		<S2 category="motion">
+			0
+		</S2>
+		<S3 category="switch">
+			1
+		</S3>
+	</A1>
+	<A2>
+		<S1 category="temp">
+			70.4
+		</S1>
+	</A2>
+	<A3>
+		<S1 category="temp">
+			68.8
+		</S1>
+	</A3>
+</megaA>
